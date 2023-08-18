@@ -75,3 +75,6 @@ fdb-environment.properties
 
 # Docker local support
 run/
+
+# Mac user generated files
+.DS_Store
